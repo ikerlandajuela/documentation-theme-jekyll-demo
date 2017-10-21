@@ -14,21 +14,21 @@
 
 
 home:
-  title: "Introduction"
+  title: "Introducción"
   url: "../mydoc/home.html"
   link: "<a href='../mydoc/home.html'>Introduction</a>"
 
 
 
 mydoc_getting_started:
-  title: "Getting started with this theme"
+  title: "Empieza con este theme"
   url: "../mydoc/mydoc_getting_started.html"
   link: "<a href='../mydoc/mydoc_getting_started.html'>Getting started with this theme</a>"
 
 
 
 mydoc_configuration_settings:
-  title: "Setting configuration options"
+  title: "Opciones de configuración"
   url: "../mydoc/mydoc_configuration_settings.html"
   link: "<a href='../mydoc/mydoc_configuration_settings.html'>Setting configuration options</a>"
 
@@ -42,7 +42,7 @@ mydoc_adding_new_projects:
 
 
 mydoc_supported_features:
-  title: "Supported features"
+  title: "Funcionalidades soportadas"
   url: "../mydoc/mydoc_supported_features.html"
   link: "<a href='../mydoc/mydoc_supported_features.html'>Supported features</a>"
 
