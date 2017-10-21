@@ -6,7 +6,7 @@ platform: all
 version: all
 output: web
 destination: ../doc_outputs/mydoc/designers
-topnav_title: TopNav Title
+topnav_title: Top Navigation Title
 homepage_title: Homepage Title
 site_title: Site Title
 project_folder: mydoc
